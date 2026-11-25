@@ -51,6 +51,7 @@ Conclusion
 The project demonstrates how KNN can be used to classify water samples based on their recorded quality parameters.
 
 Team Members
+
 Anisha Basu 241001001118 
 Jagriti Das 241001001144 
 Shreya Raj 241001001115 
