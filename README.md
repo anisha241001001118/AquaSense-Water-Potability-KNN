@@ -53,7 +53,11 @@ The project demonstrates how KNN can be used to classify water samples based on 
 Team Members
 
 Anisha Basu 241001001118 
+
 Jagriti Das 241001001144 
+
 Shreya Raj 241001001115 
+
 Bushra Ali 241001001088 
+
 Rukhsar Haidar 241001001086
